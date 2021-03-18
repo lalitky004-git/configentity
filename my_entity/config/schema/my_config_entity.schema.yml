@@ -1,0 +1,15 @@
+my_entity.my_config_entity.*:
+  type: config_entity
+  label: 'My config entity config'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
+    uuid:
+      type: string
+    time:
+      type: number
+      label: 'Time'

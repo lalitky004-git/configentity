@@ -1,0 +1,8 @@
+
+# My config entity menu items definition
+entity.my_config_entity.collection:
+  title: 'My config entity'
+  route_name: entity.my_config_entity.collection
+  description: 'List My config entity (bundles)'
+  parent: system.admin_structure
+  weight: 99
